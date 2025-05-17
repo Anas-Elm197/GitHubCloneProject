@@ -1,2 +1,1 @@
-this is a new fearture.
-
+ This is a new feature.
